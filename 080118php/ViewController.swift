@@ -78,7 +78,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         case "Alfon":
             tablaEscogida="JuegosAlfon"
         case "Mari":
-            tablaEscogida="JuegosMari"
+            tablaEscogida="JuegosMary"
         default:
             tablaEscogida="JuegosDeseados"
         }
